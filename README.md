@@ -1,5 +1,7 @@
 # PeruUnreal
 Unreal representation of archeological site.
+<img width="931" alt="Screenshot 2024-01-22 at 2 41 23 PM" src="https://github.com/rrumsey1675/PeruUnreal/assets/78924970/5517ac92-a207-44c4-9e77-57be2803eb2c">
+
 
 ## The Goal
 
